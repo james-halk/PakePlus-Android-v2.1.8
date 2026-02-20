@@ -1,0 +1,9 @@
+{
+	"appId": "com.lifewisdom.app",
+	"appName": "人生建议",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {}
+}
